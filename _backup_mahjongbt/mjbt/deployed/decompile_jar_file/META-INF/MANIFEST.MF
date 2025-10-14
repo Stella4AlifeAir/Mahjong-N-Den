@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: BT Demo
+Created-By: 1.4.2_07 (Sun Microsystems Inc.)
+MIDlet-Vendor: Phee! Phoo!
+MIDlet-1: BT Demo,,com.pheephoo.mjgame.MJGame
+MIDlet-Version: 1.0.0
+MicroEdition-Profile: MIDP-2.0
+
