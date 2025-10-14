@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Phee! Phoo!
+MIDlet-Jar-URL: mjbt.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: BT Demo,,com.pheephoo.mjgame.MJGame
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-Size: 257558
+MIDlet-Name: BT Demo
